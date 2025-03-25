@@ -9,7 +9,10 @@
  ```
 
 ### 2. 安装所给版本微信 :iphone:
+ ```bash
+ version == 3.9.11.xx
 
+ ```
 ### 3. 配置环境 :wrench:
 
 ```bash
