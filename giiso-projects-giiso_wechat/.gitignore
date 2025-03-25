@@ -1,0 +1,15 @@
+.*
+!.gitignore
+!.github/
+
+*pyc
+__pycache__
+
+output/
+wechat_data/
+dist/
+build/
+
+logs/
+*.log
+*.log.*

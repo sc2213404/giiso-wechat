@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="15px" height="15px" viewBox="0 0 15 15" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>模版</title>
+    <g id="页面-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" stroke-linejoin="round">
+        <g id="icon-" transform="translate(-184, -147)" stroke="#666666" stroke-width="1.5">
+            <g id="编组" transform="translate(185, 148)">
+                <polygon id="路径" points="6.175 0 0 0 0 7.33333333 6.175 7.33333333"></polygon>
+                <polygon id="路径" points="13 10 0 10 0 13 13 13"></polygon>
+                <polygon id="路径" points="13 0 8.775 0 8.775 2.66666667 13 2.66666667"></polygon>
+                <polygon id="路径" points="13 4.66666667 8.775 4.66666667 8.775 7.33333333 13 7.33333333"></polygon>
+            </g>
+        </g>
+    </g>
+</svg>

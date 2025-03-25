@@ -1,0 +1,1 @@
+import{i as a,j as n,r,u as c,k as _,a as u,o as i,c as m,d}from"./index-19d99aad.js";const l={class:"layout-main"},x={__name:"index",setup(p){a();const t=n(),s=r([]);return c().hasLogin,_(()=>t.matched,e=>{s.value=[e[1].name]},{immediate:!0}),(e,f)=>{const o=u("router-view");return i(),m("div",l,[d(o)])}}};export{x as default};

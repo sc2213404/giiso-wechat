@@ -1,0 +1,2 @@
+*.exe filter=lfs diff=lfs merge=lfs -text
+WeChatSetup-3.9.11.25.exe filter=lfs diff=lfs merge=lfs -text

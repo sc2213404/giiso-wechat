@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="16px" height="14px" viewBox="0 0 16 14" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>上传</title>
+    <g id="页面-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" stroke-linejoin="round">
+        <g id="icon-" transform="translate(-32, -178)" stroke="#666666" stroke-width="1.5">
+            <g id="编组" transform="translate(33, 179)">
+                <path d="M0,0.666666667 C0,0.298476667 0.329895263,0 0.736842105,0 L5.15789474,0 L7,2 L13.2631579,2 C13.6701158,2 14,2.29846667 14,2.66666667 L14,11.3333333 C14,11.7015333 13.6701158,12 13.2631579,12 L0.736842105,12 C0.329895263,12 0,11.7015333 0,11.3333333 L0,0.666666667 Z" id="路径" fill-rule="nonzero"></path>
+                <polyline id="路径" stroke-linecap="round" points="9 6.99556667 7 5 5 7"></polyline>
+                <line x1="7" y1="5" x2="7" y2="9" id="路径" stroke-linecap="round"></line>
+            </g>
+        </g>
+    </g>
+</svg>

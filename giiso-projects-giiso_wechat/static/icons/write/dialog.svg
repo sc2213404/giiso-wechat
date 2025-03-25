@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="15px" height="14px" viewBox="0 0 15 14" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>对话</title>
+    <g id="页面-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" stroke-linecap="round">
+        <g id="icon-" transform="translate(-319, -144)" stroke="#666666" stroke-width="1.5">
+            <g id="对话" transform="translate(320, 145)">
+                <polygon id="路径" stroke-linejoin="round" points="9.425 10.9714286 5.85 10.9714286 5.85 8.22857143 10.4 8.22857143 10.4 5.48571429 13 5.48571429 13 10.9714286 11.375 10.9714286 10.4 12"></polygon>
+                <polygon id="路径" stroke-linejoin="round" points="0 0 10.4 0 10.4 8.22857143 4.225 8.22857143 2.925 9.6 1.625 8.22857143 0 8.22857143"></polygon>
+                <line x1="4.875" y1="4.11428571" x2="5.2" y2="4.11428571" id="路径"></line>
+                <line x1="7.15" y1="4.11428571" x2="7.475" y2="4.11428571" id="路径"></line>
+                <line x1="2.6" y1="4.11428571" x2="2.925" y2="4.11428571" id="路径"></line>
+            </g>
+        </g>
+    </g>
+</svg>
