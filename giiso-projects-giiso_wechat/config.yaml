@@ -52,7 +52,7 @@ logging:
     handlers: [console, debug_file_handler, info_file_handler, error_file_handler]
 
 groups:
-  enable: [43741496000@chatroom]  # 允许响应的群 roomId，大概长这样：2xxxxxxxxx3@chatroom
+  enable: []  # 允许响应的群 roomId，大概长这样：2xxxxxxxxx3@chatroom
 
 news:
   receivers: []  # 定时新闻接收人（roomid 或者 wxid）
@@ -68,8 +68,8 @@ chatgpt:  # -----chatgpt配置这行不填-----
   prompt: 你是智能聊天机器人，你叫 wcferry  # 根据需要对角色进行设定
 
 chatglm:  # -----chatglm配置这行不填-----
-  key: sk-012345678901234567890123456789012345678901234567 # 这个应该不用动
-  api: http://localhost:8000/v1  # 根据自己的chatglm地址修改
+  key:  # 这个应该不用动
+  api:   # 根据自己的chatglm地址修改
   proxy:  # 如果你在国内，你可能需要魔法，大概长这样：http://域名或者IP地址:端口号
   prompt: 你是智能聊天机器人，你叫小薇  # 根据需要对角色进行设定 
   file_path: F:/Pictures/temp  #设定生成图片和代码使用的文件夹路径
@@ -85,9 +85,9 @@ xinghuo_web:  # -----讯飞星火web模式api配置这行不填 抓取方式详�
   prompt: 你是智能聊天机器人，你叫 wcferry。请用这个角色回答我的问题  # 根据需要对角色进行设定
 
 bard: # -----bard配置这行不填-----
-  api_key: AIzaSyB8HiKWUsruBBwxbby4BDAEdaDdw8eBTdY
+  api_key: 
   model_name: gemini-pro # 新模型上线后可以选择模型
-  proxy: http://10.22.41.206:7892  # 如果你在国内，你可能需要魔法，大概长这样：http://域名或者IP地址:端口号
+  proxy:   # 如果你在国内，你可能需要魔法，大概长这样：http://域名或者IP地址:端口号
   # 提示词尽可能用英文，bard对中文提示词的效果不是很理想，下方提示词为英语老师的示例，请按实际需要修改,默认设置的提示词为谷歌创造的AI大语言模型
   # I want you to act as a spoken English teacher and improver. I will speak to you in English and you will reply to me in English to practice my spoken English. I want you to keep your reply neat, limiting the reply to 100 words. I want you to strictly correct my grammar mistakes, typos, and factual errors. I want you to ask me a question in your reply. Now let's start practicing, you could ask me a question first. Remember, I want you to strictly correct my grammar mistakes, typos, and factual errors.
   prompt: You am a large language model, trained by Google.
